@@ -1,0 +1,6 @@
+{
+  "name": "QuickVoice",
+  "description": "Background voice recorder triggered with a 3-second hold of the Volume Up button.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

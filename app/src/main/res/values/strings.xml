@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuickVoice</string>
+    <string name="accessibility_service_label">QuickVoice Volume Trigger</string>
+    <string name="accessibility_service_description">Enables 3-second hold of the Volume Up button anywhere in the background to automatically start or stop voice recording.</string>
+    <string name="tile_record_label">Quick Record</string>
+    <string name="notification_channel_name">Voice Recording</string>
+    <string name="notification_channel_desc">Active background audio recording service indicator</string>
+    <string name="recording_in_progress">Recording audio in background…</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="recording_saved">Recording saved successfully</string>
+    <string name="permission_required">Microphone and notification permissions are required to record audio.</string>
+</resources>
